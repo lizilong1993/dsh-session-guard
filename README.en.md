@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This repository is no longer maintained / 本仓库不再维护.**
+>
+> The plugin has been renamed and moved to **[lizilong1993/dsh-offpeak](https://github.com/lizilong1993/dsh-offpeak)**: package `dsh-offpeak`, plugin id `dsh-external/dsh-offpeak`, settings namespace `offpeak`, config file `config/offpeak.json` (the old `session-guard.json` is still read). All further development, releases and fixes happen there; this repository is kept as-is for history and receives no new commits — existing PRs are left untouched.
+>
+> 插件已改名并迁移到 **[lizilong1993/dsh-offpeak](https://github.com/lizilong1993/dsh-offpeak)**：包名 `dsh-offpeak`、插件 id `dsh-external/dsh-offpeak`、设置命名空间 `offpeak`、配置文件 `config/offpeak.json`（旧名 `session-guard.json` 仍会被读取）。后续开发、发版与修复只在那边进行；此仓库连同历史一起保留，不再接收新提交，已提交的 PR 也保持原样。
+
 <p align="center">
   <strong>Peak auto session gate: weekend mode + peak auto-pause + official-source guard + session-level freeze + backend auto-retry</strong>
 </p>

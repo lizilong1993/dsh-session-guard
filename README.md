@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **本仓库不再维护 / This repository is no longer maintained.**
+>
+> 插件已改名并迁移到 **[lizilong1993/dsh-offpeak](https://github.com/lizilong1993/dsh-offpeak)**：包名 `dsh-offpeak`、插件 id `dsh-external/dsh-offpeak`、设置命名空间 `offpeak`、配置文件 `config/offpeak.json`（旧名 `session-guard.json` 仍会被读取）。后续开发、发版与修复只在那边进行；此仓库连同历史一起保留，不再接收新提交，已提交的 PR 也保持原样。
+>
+> The plugin has been renamed and moved to **[lizilong1993/dsh-offpeak](https://github.com/lizilong1993/dsh-offpeak)**: package `dsh-offpeak`, plugin id `dsh-external/dsh-offpeak`, settings namespace `offpeak`, config file `config/offpeak.json` (the old `session-guard.json` is still read). All further development, releases and fixes happen there; this repository is kept as-is for history and receives no new commits — existing PRs are left untouched.
+
 <p align="center">
   <strong>高峰自动会话门：周末模式 + 高峰自动暂停 + 官方源二维判定 + 会话级冻结 + 后端自动重试</strong>
 </p>
